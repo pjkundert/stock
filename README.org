@@ -1,0 +1,4 @@
+* Stock Ticker
+
+  A simple command-line Stock Ticker game, with support for buying on margin.
+
